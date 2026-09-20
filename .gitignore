@@ -1,0 +1,19 @@
+node_modules/
+dist/
+
+# Sessao do WhatsApp: NUNCA versionar, da acesso total a conta
+auth/
+
+# Cache de mapeamento LID -> numero
+data/
+
+# Arquivos temporarios de conversao
+tmp/
+
+# Configuracao local
+.env
+
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
